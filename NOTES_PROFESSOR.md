@@ -17,4 +17,5 @@ IMPORTANT: Creeu una nova compte o associeu una de existent al compte de Gmail d
 # TIPS/Consells
 
 - Utilitzar els perfils de chrome per simular el mateix estat que els alumnes. Per exemple per crear un compte nou de Github, per comprovar que no teniu permisos, etc. No suposeu que els alumnse veuran el mateix que valtros.
+- Per exemple, personalment utilitzo un perfil d'alumne de Chrome per simular com ho veuran tots els alumnes i un compte de Git de proves alumne: https://github.com/AlumneDAMPRova
 - Podeu deixar fer als alumnes els vídeos al seu ritme o els podeu utilitzar com a guía per fer la classe d'una forma més guiada.
