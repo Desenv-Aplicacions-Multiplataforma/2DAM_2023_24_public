@@ -29,6 +29,7 @@ Comproveu per a cada alumne:
 - Han seguit el vídeo i han creat un repositori de proves per repassar/aprendre les comandes bàsiques de Git.Han fet commit en aquest repositori
 - Tenen accés al repositori del curs, és a dir s'ha afegit al team alumnes
 - Saben fer un Pull Request per modificar el README.md
+- Han creat un Kanban i issues per afegir-se les tasques que els proposem. Tanquen les issues un cop realitzades.
 
 # TIPS/Consells
 
