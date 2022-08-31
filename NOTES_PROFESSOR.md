@@ -6,4 +6,4 @@ Les mateixes eines que necessiten els alumnes també valen pel professor. El ví
 
 https://www.youtube.com/watch?v=w8j07_DBl_I
 
-Us pot ajudar
+Indica els passos. Al vídeo s'utilitzen les versions d'Ubuntu, PHP i altres disponibles en el moment. Si us plautingueu en compte d'adaptar-ho a noves versions si és el cas.
