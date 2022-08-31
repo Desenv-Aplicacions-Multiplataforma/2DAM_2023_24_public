@@ -20,6 +20,16 @@ https://www.youtube.com/watch?v=hRcIuEtXaBc&t=2813s
 
 IMPORTANT: Creeu una nova compte o associeu una de existent al compte de Gmail de l'Institut de l'Ebre (@iesebre.com) per poder gaudir 
 
+# Que cal corregir/valorar
+
+Comproveu per a cada alumne:
+
+- Han creat compte Github. El compte ha d'estar associat al compte de l'Institut (@iesebre.com). S'han posat un avatar que els identifiqui i millor si el nom usuari és idetificatiu.
+- Han instal·lat Git al ordinador local i coneixen el workflow bàsic de treball (git init/clone/status/add/commit/push/pull)
+- Han seguit el vídeo i han creat un repositori de proves per repassar/aprendre les comandes bàsiques de Git.Han fet commit en aquest repositori
+- Tenen accés al repositori del curs, és a dir s'ha afegit al team alumnes
+- Saben fer un Pull Request per modificar el README.md
+
 # TIPS/Consells
 
 - Utilitzar els perfils de chrome per simular el mateix estat que els alumnes. Per exemple per crear un compte nou de Github, per comprovar que no teniu permisos, etc. No suposeu que els alumnse veuran el mateix que valtros.
