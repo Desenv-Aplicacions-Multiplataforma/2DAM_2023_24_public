@@ -1,3 +1,9 @@
+# Contacte
+
+Poseu-vos amb contacte amb https://github.com/acacha per tal que us doni accés al repositori com a professor:
+
+- Sergi Tur Badenas | sergiturbadenas@gmail.com | stur@iesebre.com | 679525437
+
 # Requeriments
 
 Cal tenir un sistema operatiu Ubuntu instal·lat. El departament d'informàtica proporciona imatges (pregunteu al coordinador informàtica) o us la podeu crear vosaltres mateixos des de zero.
