@@ -30,6 +30,7 @@ Comproveu per a cada alumne:
 - Tenen accés al repositori del curs, és a dir s'ha afegit al team alumnes
 - Saben fer un Pull Request per modificar el README.md
 - Han creat un Kanban i issues per afegir-se les tasques que els proposem. Tanquen les issues un cop realitzades.
+- El repositori https://github.com/Desenv-Aplicacions-Multiplataforma/2DAM_2022_23/blob/main/README.md#alumnes té la llista d'alumnes completa amb les dades correctes i ordenada alfabeticàment. Intenteu crear aquest document de forma colaborativa amb Git i Github
 
 # TIPS/Consells
 
