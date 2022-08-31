@@ -15,6 +15,10 @@ Que es corregirà? Quins objectius heu de complir:
 - Tenir un usuari de Github que utilitzareu durant el curs.
 - L'usuari ha de tenir associada la vostra compte de email de l'institut per tal de poder aprofitar [Github For Students](https://education.github.com/students)
 
+També heu d'aprendre a utilitzar les issues, Kanbans de Github. Seguiu el vídeo:
+
+https://www.youtube.com/watch?v=bhoPofrVM3c&list=PLyasg1A0hpk21ORaTE8r_mA8YbMAZI76e&index=2&t=1916s
+
 # Github Students Pack
 
 Assegureu-vos que teniu els beneficis d'estudiants activats, els podeu consultar a:
