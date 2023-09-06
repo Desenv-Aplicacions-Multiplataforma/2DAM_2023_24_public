@@ -11,7 +11,7 @@ En cas que encara no el tingueu, el primer pas que heu de fer és preparar Githu
 
 Per tal de saber com funciona Github, mireu el vídeo:
 
-https://www.youtube.com/watch?v=hRcIuEtXaBc&t=2813s
+https://tubeme.acacha.org/GIT
 
 La documentació sobre Git i Github la podeu trobar a:
 
