@@ -40,6 +40,8 @@ IMPORTANT: Us heu d'afegir al grup d'alumnes (és un Team de Github):
 
 https://github.com/orgs/Desenv-Aplicacions-Multiplataforma/teams/2dam_2023_24
 
+Heu de solicitar al profesor que afegeixi els vostres usuaris de Github al grup.
+
 De la organització:
 
 https://github.com/Desenv-Aplicacions-Multiplataforma
