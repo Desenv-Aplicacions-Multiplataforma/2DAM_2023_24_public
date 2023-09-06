@@ -1,3 +1,10 @@
+# Pasos previs
+
+Si encara no l'heu fet, seguiu els passos de:
+
+https://tubeme.acacha.org/DAM_101
+
+
 # Primers passos
 
 En cas que encara no el tingueu, el primer pas que heu de fer és preparar Github, la eina principal de treball durant el curs.
