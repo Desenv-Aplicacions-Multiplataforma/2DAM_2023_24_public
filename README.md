@@ -38,7 +38,7 @@ https://education.github.com/pack
 
 IMPORTANT: Us heu d'afegir al grup d'alumnes (és un Team de Github):
 
-https://github.com/orgs/Desenv-Aplicacions-Multiplataforma/teams/alumnes
+https://github.com/orgs/Desenv-Aplicacions-Multiplataforma/teams/2dam_2023_24
 
 De la organització:
 
