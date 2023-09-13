@@ -24,7 +24,7 @@ Que es corregirà? Quins objectius heu de complir:
 
 També heu d'aprendre a utilitzar les issues, Kanbans de Github. Seguiu el vídeo:
 
-https://www.youtube.com/watch?v=bhoPofrVM3c&list=PLyasg1A0hpk21ORaTE8r_mA8YbMAZI76e&index=2&t=1916s
+https://tubeme.acacha.org/102
 
 # Github Students Pack
 
